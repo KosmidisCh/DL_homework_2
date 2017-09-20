@@ -1,44 +1,36 @@
-–егул€рное выражение    \s?[^.]\<o.\S+@[A-Z0-9._%+-]+(\.[A-Z0-9.-]+)*\.[A-Z]{2,4}
-
-количество найденных e-mail(ов): 34
-
- outlook.team@enron.com
- outlook.team@enron.com
-
-  Outlook.2000@enron.com
- <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
- <orourke.john@epenergy.com
-
+\s?[^.]\<o.\S+@[A-Z0-9._%+-]+(\.[A-Z0-9.-]+)*\.[A-Z]{2,4}
+34
+outlook.team@enron.com
+outlook.team@enron.com
+Outlook.2000@enron.com
+<OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
+<orourke.john@epenergy.com
 off-yild@zdemail.zdlists.com
- on-yild@zdemail.zdlists.com
- owner-strawbale@crest.org
- owner-strawbale@crest.org
- owner-strawbale@crest.org
- owner-strawbale@crest.org
- outlook.team@enron.com
-
- Outlook.2000@enron.com
- <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
- <orourke.john@epenergy.com
- outlook-migration-team@enron.com
- outlook-migration-team@enron.com
-
+on-yild@zdemail.zdlists.com
+owner-strawbale@crest.org
+owner-strawbale@crest.org
+owner-strawbale@crest.org
+owner-strawbale@crest.org
+outlook.team@enron.com
+Outlook.2000@enron.com
+<OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
+<orourke.john@epenergy.com
+outlook-migration-team@enron.com
+outlook-migration-team@enron.com
 ove@commissioner.com
- online.service@schwab.com
- <online.service@schwab.com
- oscar.dalton@enron.com
- open2win.0ll1.net@mailman.enron.com
+online.service@schwab.com
+<online.service@schwab.com
+oscar.dalton@enron.com
+open2win.0ll1.net@mailman.enron.com
 <open2win.0ll1.net@mailman.enron.com
- oportunity@cells4free.com
- <oportunity@cells4free.com
-
+oportunity@cells4free.com
+<oportunity@cells4free.com
 off-yild@zdemail.zdlists.com
- on-yild@zdemail.zdlists.com
- owner-strawbale@crest.org
- owner-strawbale@crest.org
- owner-strawbale@crest.org
- <orourke.john@epenergy.com
- owner-strawbale@crest.org
- <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
-
- Outlook.2000@enron.com
+on-yild@zdemail.zdlists.com
+owner-strawbale@crest.org
+owner-strawbale@crest.org
+owner-strawbale@crest.org
+<orourke.john@epenergy.com
+owner-strawbale@crest.org
+<OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com
+Outlook.2000@enron.com
